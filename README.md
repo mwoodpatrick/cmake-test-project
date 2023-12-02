@@ -2,7 +2,7 @@
 Simple cmake example
 
 A simple cmake example based on [How to Install CMake on Debian 12, 11 or 10](https://www.linuxcapable.com/how-to-install-cmake-on-debian-linux/#Section-3-Test-CMake-Installation-with-a-Sample-Program-on-Debian-12-11-or-10)
-
+```
 sudo apt update
 sudo apt upgrade
 sudo apt install cmake
@@ -28,4 +28,8 @@ gh repo create
 	? Add a remote? Yes
 	? What should the new remote be called? origin
 	✓ Added remote git@github.com:mwoodpatrick/cmake-test-project.git
+```
 
+Also see:
+
+* [Markdown Guide](https://www.markdownguide.org)
